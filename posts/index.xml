@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on DD_Woof</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on DD_Woof</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <copyright>© 2026 ddwoof</copyright>
+    <lastBuildDate>Thu, 26 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>攝影作品 01</title>
+      <link>/posts/photo-1/</link>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/photo-1/</guid>
+      <description>&lt;p&gt;這是我在海邊拍攝的照片。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/posts/photo-1/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>攝影作品 02</title>
+      <link>/posts/photo-2/</link>
+      <pubDate>Wed, 25 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/photo-2/</guid>
+      <description>&lt;p&gt;深入森林探索大自然的美麗。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/posts/photo-2/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>攝影作品 03</title>
+      <link>/posts/photo-3/</link>
+      <pubDate>Tue, 24 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/photo-3/</guid>
+      <description>&lt;p&gt;捕捉城市街道上的獨特光影。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/posts/photo-3/feature.jpg" />
+    </item>
+    
+  </channel>
+</rss>
